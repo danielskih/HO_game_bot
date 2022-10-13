@@ -1,2 +1,2 @@
-# HO_game_bot
-An hidden object game bot
+# Match 3 game_bot
+A match 3 game bot.
